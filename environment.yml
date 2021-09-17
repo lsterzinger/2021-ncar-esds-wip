@@ -13,3 +13,8 @@ dependencies:
   - ujson
   - dask
   - h5py
+  - jupyterlab
+  - nodejs
+  - metpy
+  - pip:
+    - dask_labextension
