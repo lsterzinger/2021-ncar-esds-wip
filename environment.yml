@@ -12,3 +12,4 @@ dependencies:
   - hvplot
   - ujson
   - dask
+  - h5py
