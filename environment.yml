@@ -16,5 +16,6 @@ dependencies:
   - jupyterlab
   - nodejs
   - metpy
+  - cartopy
   - pip:
     - dask_labextension
