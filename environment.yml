@@ -1,0 +1,15 @@
+name: fsspec-reference-maker
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python=3.8
+  - fsspec-reference-maker
+  - fsspec
+  - s3fs
+  - xarray
+  - matplotlib
+  - hvplot
+  - glob
+  - ujson
+  - dask
