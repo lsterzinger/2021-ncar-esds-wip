@@ -4,12 +4,12 @@ channels:
   - default
 dependencies:
   - python=3.8
+  - pip
   - fsspec-reference-maker
   - fsspec
   - s3fs
   - xarray
   - matplotlib
-  - hvplot
   - ujson
   - dask
   - h5py
@@ -17,5 +17,10 @@ dependencies:
   - nodejs
   - metpy
   - cartopy
+  - cfgrib
+  - eccodes
   - pip:
     - dask_labextension
+    - hvplot
+    - geoviews
+    - datashader
