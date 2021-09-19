@@ -13,6 +13,8 @@ conda activate fsspec-reference-maker
 
 jupyter lab
 ```
+_Tip: use mamba instead of conda for a faster environment solve_
+
 ## Interactive Notebook Links
 If desired, the notebook can be run online using Binder/Pangeo. These will probably be much slower than running on a local machine.
 
