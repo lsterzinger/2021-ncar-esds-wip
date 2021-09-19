@@ -1,9 +1,4 @@
 .ipynb_checkpoints/environment-checkpoint.yml
 .ipynb_checkpoints/workshop-checkpoint.ipynb
 .vscode/settings.json
-dask-worker-space/global.lock
-dask-worker-space/purge.lock
-dask-worker-space/worker-_q975n_t.dirlock
-dask-worker-space/worker-41rs0hff.dirlock
-dask-worker-space/worker-p1mfqlyu.dirlock
-dask-worker-space/worker-yijwev2x.dirlock
+dask-worker-space
