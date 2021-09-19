@@ -1,7 +1,20 @@
 # FSSPEC Reference Maker Talk
 ### NCAR Earth System Data Science WIP - 2021-09-20
 ***
+## Running locally
+The best option to run this notebook is locally, since generating the references can be easily parallelized with Dask
+
+```
+git clone https://github.com/lsterzinger/2021-ncar-earth-system-data-science-wip.git
+cd 2021-ncar-earth-system-data-science-wip
+
+conda create -f environment.yml
+conda activate fsspec-reference-maker
+
+jupyter lab
+```
 ## Interactive Notebook Links
+If desired, the notebook can be run online using Binder/Pangeo. These will probably be much slower than running on a local machine.
 
 | Name | Link | Info |
 |------|------|------|
