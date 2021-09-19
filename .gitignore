@@ -1,4 +1,3 @@
-.ipynb_checkpoints/environment-checkpoint.yml
-.ipynb_checkpoints/workshop-checkpoint.ipynb
-.vscode/settings.json
+.ipynb_checkpoints
+.vscode
 dask-worker-space
