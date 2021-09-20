@@ -8,7 +8,7 @@ The best option to run this notebook is locally, since generating the references
 git clone https://github.com/lsterzinger/2021-ncar-esds-wip.git
 cd 2021-ncar-esds-wip
 
-conda create -f environment.yml
+conda env create -f environment.yml
 conda activate fsspec-reference-maker
 
 jupyter lab
