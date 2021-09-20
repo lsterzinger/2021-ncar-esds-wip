@@ -19,8 +19,10 @@ dependencies:
   - cartopy
   - cfgrib
   - eccodes
+  - numpy<=1.20.0
   - pip:
     - dask_labextension
     - hvplot
     - geoviews
     - datashader
+    - bokeh
